@@ -9,6 +9,7 @@ routes = [
   { pattern = "investors.spotify.com.%subdomain_name%", custom_domain = true },
   { pattern = "investor.fb.com.%subdomain_name%", custom_domain = true },
   { pattern = "mssdk24-normal-useast2a.tiktokv.com.%subdomain_name%", custom_domain = true },
+  { pattern = "support.zoom.us.%subdomain_name%", custom_domain = true },
   { pattern = "zaintest.vuclip.com.%subdomain_name%", custom_domain = true }
   
 ]
