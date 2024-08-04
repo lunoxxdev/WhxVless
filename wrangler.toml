@@ -5,10 +5,10 @@ routes = [
   { pattern = "%subdomain_name%", custom_domain = true },
   { pattern = "ava.game.naver.com.%subdomain_name%", custom_domain = true },
   { pattern = "blog.webex.com.%subdomain_name%", custom_domain = true },
-  { pattern = "cdn.appsflyer.com.%subdomain_name%", custom_domain = true },
+  { pattern = "cache.netflix.com.%subdomain_name%", custom_domain = true },
+  { pattern = "graph.instagram.com.%subdomain_name%", custom_domain = true },
   { pattern = "investors.spotify.com.%subdomain_name%", custom_domain = true },
   { pattern = "investor.fb.com.%subdomain_name%", custom_domain = true },
-  { pattern = "mssdk24-normal-useast2a.tiktokv.com.%subdomain_name%", custom_domain = true },
   { pattern = "support.zoom.us.%subdomain_name%", custom_domain = true },
   { pattern = "zaintest.vuclip.com.%subdomain_name%", custom_domain = true }
   
