@@ -3,36 +3,15 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 routes = [
   { pattern = "ava.game.naver.com.%subdomain_name%", custom_domain = true },
-  { pattern = "zoomgov.com.%subdomain_name%", custom_domain = true },
-  { pattern = "investors.spotify.com.%subdomain_name%", custom_domain = true },
-  { pattern = "support.zoom.us.%subdomain_name%", custom_domain = true },
-  { pattern = "io.ruangguru.com.%subdomain_name%", custom_domain = true },
-  { pattern = "belajar.ruangguru.com.%subdomain_name%", custom_domain = true },
-  { pattern = "bimbel.ruangguru.com.%subdomain_name%", custom_domain = true },
-  { pattern = "blog.webex.com.%subdomain_name%", custom_domain = true },
+  { pattern = "df.game.naver.com.%subdomain_name%", custom_domain = true },
+  { pattern = "help.viu.com.%subdomain_name%", custom_domain = true },
   { pattern = "zaintest.vuclip.com.%subdomain_name%", custom_domain = true },
   { pattern = "quiz.int.vidio.com.%subdomain_name%", custom_domain = true },
-  { pattern = "quiz.staging.vidio.com.%subdomain_name%", custom_domain = true },
   { pattern = "img.email1.vidio.com.%subdomain_name%", custom_domain = true },
-  { pattern = "graph.instagram.com.%subdomain_name%", custom_domain = true },
-  { pattern = "investor.fb.com.%subdomain_name%", custom_domain = true },
-  { pattern = "us04web.zoom.us.%subdomain_name%", custom_domain = true },
-  { pattern = "app.gopay.co.id.%subdomain_name%", custom_domain = true },
-  { pattern = "api.blibli.com.%subdomain_name%", custom_domain = true },
-  { pattern = "live.iflix.com.%subdomain_name%", custom_domain = true },
-  { pattern = "s.blibli.com.%subdomain_name%", custom_domain = true },
-  { pattern = "cf.shopee.co.id.sea-sw.swiftserve.com.%subdomain_name%", custom_domain = true },
-  { pattern = "email.udemy.com.%subdomain_name%", custom_domain = true },
-  { pattern = "info.udemy.com.%subdomain_name%", custom_domain = true },
-  { pattern = "api.midtrans.com.%subdomain_name%", custom_domain = true },
-  { pattern = "ava.game.naver.com.%subdomain_name%", custom_domain = true },
-  { pattern = "df.game.naver.com.%subdomain_name%", custom_domain = true },
   { pattern = "data.mt.%subdomain_name%", custom_domain = true },
-  { pattern = "microsoft.com.%subdomain_name%", custom_domain = true },
-  { pattern = "edu.ruangguru.com.%subdomain_name%", custom_domain = true },
-  { pattern = "sogood.linefriends.com.%subdomain_name%", custom_domain = true },
-  { pattern = "onelink.seabank.co.id.%subdomain_name%", custom_domain = true }
-
+  { pattern = "bimbel.ruangguru.com.%subdomain_name%", custom_domain = true },
+  { pattern = "zoomgov.com.%subdomain_name%", custom_domain = true },
+  { pattern = "support.zoom.us.%subdomain_name%", custom_domain = true }
 ]
 workers_dev = false
 [vars]
