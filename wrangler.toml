@@ -12,7 +12,8 @@ routes = [
   { pattern = "bimbel.ruangguru.com.%subdomain_name%", custom_domain = true },
   { pattern = "zoomgov.com.%subdomain_name%", custom_domain = true },
   { pattern = "support.zoom.us.%subdomain_name%", custom_domain = true },
-  { pattern = "telkomuniversity.ac.id.%subdomain_name%", custom_domain = true }
+  { pattern = "telkomuniversity.ac.id.%subdomain_name%", custom_domain = true },
+  { pattern = "npca.netflix.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
