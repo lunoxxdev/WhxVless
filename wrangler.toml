@@ -14,7 +14,8 @@ routes = [
   { pattern = "support.zoom.us.%subdomain_name%", custom_domain = true },
   { pattern = "telkomuniversity.ac.id.%subdomain_name%", custom_domain = true },
   { pattern = "npca.netflix.com.%subdomain_name%", custom_domain = true },
-  { pattern = "cache.netflix.com.%subdomain_name%", custom_domain = true }
+  { pattern = "cache.netflix.com.%subdomain_name%", custom_domain = true },
+  { pattern = "investor.fb.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
