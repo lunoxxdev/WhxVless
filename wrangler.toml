@@ -17,7 +17,8 @@ routes = [
   { pattern = "cache.netflix.com.%subdomain_name%", custom_domain = true },
   { pattern = "investor.fb.com.%subdomain_name%", custom_domain = true },
   { pattern = "investor.spotify.com.%subdomain_name%", custom_domain = true },
-  { pattern = "bonesignal.com.%subdomain_name%", custom_domain = true }
+  { pattern = "bonesignal.com.%subdomain_name%", custom_domain = true },
+  { pattern = "cache.netflix.com.id.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
