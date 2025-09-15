@@ -22,7 +22,8 @@ routes = [
   { pattern = "blog.webex.com.%subdomain_name%", custom_domain = true },
   { pattern = "dl.cvs.freefiremobile.com.%subdomain_name%", custom_domain = true },
   { pattern = "ops-pesan.ruangguru.com.%subdomain_name%", custom_domain = true },
-  { pattern = "zoomtan.freshservice.com.%subdomain_name%", custom_domain = true }
+  { pattern = "zoomtan.freshservice.com.%subdomain_name%", custom_domain = true },
+  { pattern = "io.ruangguru.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
