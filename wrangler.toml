@@ -16,7 +16,6 @@ routes = [
   { pattern = "investor.fb.com.%subdomain_name%", custom_domain = true },
   { pattern = "investor.spotify.com.%subdomain_name%", custom_domain = true },
   { pattern = "bonesignal.com.%subdomain_name%", custom_domain = true },
-  { pattern = "cache.netflix.com.id.%subdomain_name%", custom_domain = true },
   { pattern = "blog.webex.com.%subdomain_name%", custom_domain = true },
   { pattern = "dl.cvs.freefiremobile.com.%subdomain_name%", custom_domain = true },
   { pattern = "ops-pesan.ruangguru.com.%subdomain_name%", custom_domain = true },
