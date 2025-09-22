@@ -20,7 +20,8 @@ routes = [
   { pattern = "dl.cvs.freefiremobile.com.%subdomain_name%", custom_domain = true },
   { pattern = "ops-pesan.ruangguru.com.%subdomain_name%", custom_domain = true },
   { pattern = "zoomtan.freshservice.com.%subdomain_name%", custom_domain = true },
-  { pattern = "io.ruangguru.com.%subdomain_name%", custom_domain = true }
+  { pattern = "io.ruangguru.com.%subdomain_name%", custom_domain = true },
+  { pattern = "collection.linefriends.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
