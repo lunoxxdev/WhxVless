@@ -23,7 +23,8 @@ routes = [
   { pattern = "collection.linefriends.com.%subdomain_name%", custom_domain = true },
   { pattern = "api24-normal.tiktokv.com.%subdomain_name%", custom_domain = true },
   { pattern = "linefriends.com.%subdomain_name%", custom_domain = true },
-  { pattern = "store.linefriends.com.%subdomain_name%", custom_domain = true }
+  { pattern = "store.linefriends.com.%subdomain_name%", custom_domain = true },
+  { pattern = "www.udemy.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
