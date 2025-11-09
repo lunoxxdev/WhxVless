@@ -25,7 +25,8 @@ routes = [
   { pattern = "linefriends.com.%subdomain_name%", custom_domain = true },
   { pattern = "store.linefriends.com.%subdomain_name%", custom_domain = true },
   { pattern = "www.udemy.com.%subdomain_name%", custom_domain = true },
-  { pattern = "waze.com.%subdomain_name%", custom_domain = true }
+  { pattern = "waze.com.%subdomain_name%", custom_domain = true },
+  { pattern = "grabalumni.grab.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
