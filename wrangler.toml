@@ -28,7 +28,8 @@ routes = [
   { pattern = "waze.com.%subdomain_name%", custom_domain = true },
   { pattern = "grabalumni.grab.com.%subdomain_name%", custom_domain = true },
   { pattern = "cf.shopee.co.id.sea-sw.swiftserve.com.%subdomain_name%", custom_domain = true },
-  { pattern = "help.line.me.%subdomain_name%", custom_domain = true }
+  { pattern = "help.line.me.%subdomain_name%", custom_domain = true },
+  { pattern = "s.lazada.co.id.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
