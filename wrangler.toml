@@ -32,7 +32,6 @@ routes = [
   { pattern = "s.lazada.co.id.%subdomain_name%", custom_domain = true },
   { pattern = "investors.spotify.com.%subdomain_name%", custom_domain = true },
   { pattern = "partner.catchplay.com.%subdomain_name%", custom_domain = true },
-  { pattern = "profile.callofduty.com.%subdomain_name%", custom_domain = true },
   { pattern = "www.callofduty.com.%subdomain_name%", custom_domain = true }
 
 ]
