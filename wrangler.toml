@@ -31,9 +31,7 @@ routes = [
   { pattern = "help.line.me.%subdomain_name%", custom_domain = true },
   { pattern = "s.lazada.co.id.%subdomain_name%", custom_domain = true },
   { pattern = "investors.spotify.com.%subdomain_name%", custom_domain = true },
-  { pattern = "partner.catchplay.com.%subdomain_name%", custom_domain = true },
-  { pattern = "www.callofduty.com.%subdomain_name%", custom_domain = true }
-
+  { pattern = "partner.catchplay.com.%subdomain_name%", custom_domain = true }
 ]
 workers_dev = false
 [vars]
