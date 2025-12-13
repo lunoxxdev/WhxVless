@@ -33,7 +33,8 @@ routes = [
   { pattern = "investors.spotify.com.%subdomain_name%", custom_domain = true },
   { pattern = "partner.catchplay.com.%subdomain_name%", custom_domain = true },
   { pattern = "cf.shopee.co.id.%subdomain_name%", custom_domain = true },
-  { pattern = "media-sin6-3.cdn.whatsapp.net.%subdomain_name%", custom_domain = true }
+  { pattern = "media-sin6-3.cdn.whatsapp.net.%subdomain_name%", custom_domain = true },
+  { pattern = "naver.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
