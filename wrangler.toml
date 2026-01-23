@@ -36,7 +36,8 @@ routes = [
   { pattern = "media-sin6-3.cdn.whatsapp.net.%subdomain_name%", custom_domain = true },
   { pattern = "naver.com.%subdomain_name%", custom_domain = true },
   { pattern = "listen.noice.id.%subdomain_name%", custom_domain = true },
-  { pattern = "www.skillacademy.com.%subdomain_name%", custom_domain = true }
+  { pattern = "www.skillacademy.com.%subdomain_name%", custom_domain = true },
+  { pattern = "apify.whatsapp.com.%subdomain_name%", custom_domain = true }
 
 ]
 workers_dev = false
